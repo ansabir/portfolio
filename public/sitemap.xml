@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2021-02-28T15:28:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/about/</loc>
+    <lastmod>2021-02-28T15:28:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-02-28T15:28:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-02-28T15:28:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/analysis/</loc>
+    <lastmod>2021-02-28T11:08:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post7/</loc>
+    <lastmod>2021-02-28T11:08:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-02-28T11:08:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/world/</loc>
+    <lastmod>2021-02-28T11:08:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/country/</loc>
+    <lastmod>2021-02-28T11:08:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post6/</loc>
+    <lastmod>2021-02-28T11:08:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/political/</loc>
+    <lastmod>2021-02-28T11:08:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post5/</loc>
+    <lastmod>2021-02-28T11:08:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/entertainment/</loc>
+    <lastmod>2021-02-28T11:08:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/society/</loc>
+    <lastmod>2021-02-28T11:08:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post4/</loc>
+    <lastmod>2021-02-28T11:08:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/digital-life/</loc>
+    <lastmod>2021-02-28T11:08:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/science/</loc>
+    <lastmod>2021-02-28T11:08:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/technology/</loc>
+    <lastmod>2021-02-28T11:08:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post3/</loc>
+    <lastmod>2021-02-28T11:08:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/technology-application/</loc>
+    <lastmod>2021-02-28T11:08:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post2/</loc>
+    <lastmod>2021-02-28T11:08:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/devices/</loc>
+    <lastmod>2021-02-28T10:31:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/geek-ideas/</loc>
+    <lastmod>2021-02-28T10:31:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/welcome/</loc>
+    <lastmod>2021-02-28T10:31:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>
